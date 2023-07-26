@@ -1,0 +1,42 @@
+{
+	"id": -1,
+	"name": "Duxo",
+	"description": "Pingüino de Duxo, streamer peruano, mural hecho por su comunidad llama ''RETHEYS''",
+	"links": {
+		"website": [
+			"https://twitch.tv/duxorethey"
+		],
+		"subreddit": [
+			"Retheys"
+		],
+		"discord": [
+			"duxo"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				30,
+				854
+			],
+			[
+				55,
+				854
+			],
+			[
+				55,
+				872
+			],
+			[
+				30,
+				872
+			]
+		]
+	},
+	"center": {
+		"254": [
+			43,
+			863
+		]
+	}
+}
