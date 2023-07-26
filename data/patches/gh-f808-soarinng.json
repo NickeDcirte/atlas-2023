@@ -1,0 +1,39 @@
+{
+	"id": -1,
+	"name": "Soarinng",
+	"description": "Pikachu de Soarinng, streamer mexicano, hecho por su comunidad llama ''Soarinngcitos'' o ''Chus''",
+	"links": {
+		"website": [
+			"https://twitch.tv/soarinng"
+		],
+		"discord": [
+			"84r6zQ6PWZ"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				55,
+				854
+			],
+			[
+				88,
+				854
+			],
+			[
+				88,
+				887
+			],
+			[
+				55,
+				886
+			]
+		]
+	},
+	"center": {
+		"254": [
+			72,
+			870
+		]
+	}
+}
