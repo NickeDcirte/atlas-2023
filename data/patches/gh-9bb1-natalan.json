@@ -1,0 +1,46 @@
+{
+	"id": 2486,
+	"name": "Natalan",
+	"description": "Mural del mayor streamer de guatemala, Natalan, y sus fans llamados \"NATALIERS\"\n\nCompartiendo mural con otras comunidades pequeñas (El Slork de mixmee, streamer noruego, y un perrito de ramWTF, streamer guatemalteco)",
+	"links": {
+		"website": [
+			"https://twitch.tv/natalan"
+		],
+		"subreddit": [
+			"NATALANDIA_OFICIAL"
+		],
+		"discord": [
+			"QE98dtxAPT"
+		]
+	},
+	"path": {
+		"210-258": [
+			[
+				1389,
+				-672
+			],
+			[
+				1389,
+				-610
+			],
+			[
+				1499,
+				-610
+			],
+			[
+				1499,
+				-672
+			],
+			[
+				1460,
+				-672
+			]
+		]
+	},
+	"center": {
+		"210-258": [
+			1444,
+			-641
+		]
+	}
+}
